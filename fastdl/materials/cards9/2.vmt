@@ -1,0 +1,22 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "cards9/2"
+	"$translucent" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$no_fullbright" "1"
+	"$additive" "0"
+	"$nomip" "1"
+	"$scale" "0.1"
+	
+
+	"Proxies"
+	{
+		"ToggleTexture"
+		{
+			"toggleTextureVar" "$baseTexture"
+			"toggleTextureFrameNumVar" "$frame"
+			"toggleTextureShouldWrap" "0"
+		}
+	}
+}

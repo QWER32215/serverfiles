@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "Models/moneybag/moneybag"
+
+$halflambert 1
+}

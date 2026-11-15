@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/tok/light"
+"$baseTexture" "animated/texture_name"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "24" 
+}

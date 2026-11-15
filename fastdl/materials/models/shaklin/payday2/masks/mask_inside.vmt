@@ -1,0 +1,10 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/shaklin/payday2/masks/straps"
+	"$bumpmap" "models/shaklin/payday2/masks/straps_n"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongboost"	"15"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+$nodecal 1
+}

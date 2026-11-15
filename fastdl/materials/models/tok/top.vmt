@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+"$nocull"		"1"
+
+	"$basetexture" "models/tok/jack_evil_diffuse"
+	"$bumpmap" "models/tok/jack_evil_normal"
+	"$translucent"		"0"
+	"$alphatest" 		"0"
+
+"$phong" "1"
+	"$phongexponent" "12"
+	"$phongexponenttexture""models/tok/jack_evil_s"
+
+	"$phongalbedotint" "1"
+	"$phongboost" ".08" 
+	"$phongfresnelranges"	"[8 40 180]"
+
+	
+$allowdiffusemodulation 0
+$blendtintbybasealpha 0
+$nodecal 1
+
+
+}
